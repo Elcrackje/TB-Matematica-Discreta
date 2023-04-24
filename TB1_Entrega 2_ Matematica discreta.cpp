@@ -276,7 +276,7 @@ void Credits() {
 
 	Console::ForegroundColor = ConsoleColor::Red;
 	cout << "Universidad Peruana de Ciencias Aplicadas" << endl;
-	cout << "Ingeniería de Software e Ingeniería de Ciencias de la Computación - Ciclo III" << endl;
+	cout << "Ingeniería de Software y Ciencias de la Computación - Ciclo III" << endl;
 	cout << "matemática Discreta - SS38" << endl;
 	cout << "Antonio Marcos Medina Martinez" << endl;
 
